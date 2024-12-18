@@ -5,6 +5,7 @@ import Card from "./card";
 import Footer from "./footer";
 
 
+
 //include images into your bundle
 //import rigoImage from "../../img/rigo-baby.jpg";
 
